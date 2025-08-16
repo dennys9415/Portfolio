@@ -11,7 +11,7 @@ const lucely = () => {
           name="description"
           content="Dennys is a DevOps Engineer who specializes in building products powered with popular technologies with CI/CD."
         />
-        {/* <link rel="icon" type="image/svg+xml" href="/face.svg" /> */}
+        <link rel="icon" type="image" href="/icon.png" />
       </Head>
       <Lucely />
       <PreFooter />

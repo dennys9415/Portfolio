@@ -14,8 +14,7 @@ export default function Home() {
           name="description"
           content="Dennys is a DevOps Engineer who specializes in building products powered with popular technologies with CI/CD."
         />
-        {/* <link rel="icon" type="image/svg+xml" href="/face2.svg" /> */}
-
+        <link rel="icon" type="image" href="/icon.png" />
         {/* <!-- Facebook Meta Tags --> */}
         {/* <meta property="og:url" content="https://frans.my.id" /> */}
         <meta property="og:type" content="website" />
