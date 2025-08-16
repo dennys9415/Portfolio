@@ -133,6 +133,7 @@ const GivingGap = () => {
           <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="">
               <div>
                   <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Working as Contractor by Lcube Studios.</p>
+                  <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Giving Gap exists to advance racial equity in giving and mobilize positive action for Black lives by connecting people to causes they care about. We are building the movement for the equitable funding of Black-founded nonprofits.</p>
                   {/* <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>If I am not mistaken, it took a month to finish the whole part. Even, I used help from Bootstrap 5 haha. Apart from that, I was so proud while doing this project. It forced me to learn more about DreadOut 2, gather lots of information from the dev, learn deeply about the gameplay itself and so forth.</p> */}
               </div>
           </div>

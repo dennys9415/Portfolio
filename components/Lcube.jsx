@@ -133,6 +133,7 @@ const Lcube = () => {
           <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="">
               <div>
                   <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Providing DevOps Services to more companies as a Contractors.</p>
+                  <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>With decades of combined experience in tech, our team is equipped to support you at every stage of your growth journey. From concept to production, launch, and long-term strategy—whether you’re starting from scratch or scaling beyond — we’ll step in wherever you need.</p>
                   {/* <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>If I am not mistaken, it took a month to finish the whole part. Even, I used help from Bootstrap 5 haha. Apart from that, I was so proud while doing this project. It forced me to learn more about DreadOut 2, gather lots of information from the dev, learn deeply about the gameplay itself and so forth.</p> */}
               </div>
           </div>

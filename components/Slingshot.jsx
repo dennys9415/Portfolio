@@ -133,6 +133,7 @@ const Slingshot = () => {
           <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="">
               <div>
                   <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Developing applications and Improving Infrastructure.</p>
+                  <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Slingshot is a comprehensive Business Phone solutions provider with a presence in North America, that prides itself in providing Small and Medium-sized businesses in Canada and in the U.S with the Best-In-Class VoIP phone system that is reliable, secure and backed by friendly and knowledgeable customer support specialists.</p>
                   {/* <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>If I am not mistaken, it took a month to finish the whole part. Even, I used help from Bootstrap 5 haha. Apart from that, I was so proud while doing this project. It forced me to learn more about DreadOut 2, gather lots of information from the dev, learn deeply about the gameplay itself and so forth.</p> */}
               </div>
           </div>

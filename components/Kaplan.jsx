@@ -133,6 +133,7 @@ const Kaplan = () => {
           <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="">
               <div>
                   <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Working as Contractor by Cryptorepair & Lcube Studios.</p>
+                  <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Founded in 2012, @Point of Care is dedicated to creating innovative digital tools that not only better connect patients, caregivers, and clinicians but also provide a means to analyze and share data to encourage shared decision-making that can improve health outcomes. @Point of Care is dedicated to the design and development of free mobile apps, peer-reviewed education, and dynamic practice tools for physicians and other clinicians.</p>
                   {/* <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>If I am not mistaken, it took a month to finish the whole part. Even, I used help from Bootstrap 5 haha. Apart from that, I was so proud while doing this project. It forced me to learn more about DreadOut 2, gather lots of information from the dev, learn deeply about the gameplay itself and so forth.</p> */}
               </div>
           </div>

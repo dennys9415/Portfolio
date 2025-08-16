@@ -133,6 +133,7 @@ const Cryptorepair = () => {
           <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="">
               <div>
                   <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>Any Kind of Projects since Developing Applications for Companies, doing maintenance to Networking, installation and infrastructure.</p>
+                  <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>This company migrates and manages enterprise data securely and reliably with solutions that ensure high-availability systems, utilize hybrid and multi-cloud technologies, and generate intelligent insights. We help our customers speed up system deployment by integrating the latest cloud-native technologies into their infrastructures, such as Containers, Orchestration, Configuration management (CD/CI), Infrastructure Provisioning, Infrastructure Monitoring, and Application Monitoring.</p>
                   {/* <p className='text-neutral-400 text-xl lg:text-2xl mb-8'>If I am not mistaken, it took a month to finish the whole part. Even, I used help from Bootstrap 5 haha. Apart from that, I was so proud while doing this project. It forced me to learn more about DreadOut 2, gather lots of information from the dev, learn deeply about the gameplay itself and so forth.</p> */}
               </div>
           </div>
