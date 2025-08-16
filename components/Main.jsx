@@ -48,7 +48,8 @@ const Main = () => {
             </Link>
           </div>
         </div>
-        <div className="hidden lg:block absolute bottom-0 z-[-1] right-[-25px] w-[55vw] h-[55vw] overflow-hidden duration-500">
+        {/* <div className="hidden lg:block absolute bottom-0 z-[-1] right-[-25px] w-[55vw] h-[55vw] overflow-hidden duration-500"> */}
+        <div className="hidden lg:block absolute bottom-0 z-[-1] right-[-25px] w-[47vw] h-[47vw] overflow-hidden duration-500">
           <Image
             src={Photo}
             // layout='responsive'
