@@ -93,7 +93,7 @@ const Slingshot = () => {
                 </h2>
                 <div>
                     <h2 className='font-normal text-lg text-neutral-900'>
-                        2021
+                        2023
                     </h2>
                 </div>
             </div>

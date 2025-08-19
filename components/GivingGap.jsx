@@ -58,17 +58,17 @@ const GivingGap = () => {
                 </h2>
                 <div>
                     <h2 className='font-normal text-lg text-neutral-900'>
-                        * Introduces processes, tools, and methods to create an optimal software development lifecycle, oversee code releases and deployments.
+                        * Managed Azure cloud infrastructure, optimizing scalability and cost efficiency.
                     </h2>
                     <h2 className='font-normal text-lg text-neutral-900'>
-                        * Design, build, test, and maintain the continuous integration and continuous delivery (CI/CD) process.
+                        * Automated workflows using Zapier and custom APIs, improving operational efficiency.
                     </h2>
                     <h2 className='font-normal text-lg text-neutral-900'>
-                        * Automate different phases of the DevOps pipeline, monitoring systems for malicious activity.
+                        * Implemented role-based access controls and scalable DB systems, enhancing security and compliance.
                     </h2>
-                    <h2 className='font-normal text-lg text-neutral-900'>
+                    {/*<h2 className='font-normal text-lg text-neutral-900'>
                         * Manage the IT infrastructure and ensure system availability, integrate and connect application elements (APIs, libraries, SDKs, etc.).
-                    </h2>
+                    </h2>*/}
                     {/* <h2 className='font-normal text-lg text-neutral-900'>
                         SCSS
                     </h2>

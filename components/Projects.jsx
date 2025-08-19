@@ -135,7 +135,7 @@ const Projects = () => {
         <Link href="/projects/kaplan">
           <div className="h-[220px] md:h-[22vw] relative duration-500 ease-in-out group hover:cursor-pointer">
             <div className="absolute text-sm md:text-lg top-[3%] left-[3%] z-[3] bg-neutral-100 px-2 py-1 group-hover:bg-neutral-900 text-neutral-900 group-hover:text-white duration-300">
-              2021
+              2022
             </div>
             <div className="absolute w-full h-full bg-neutral-300 opacity-90 z-[1] duration-300 group-hover:opacity-0"></div>
             <Image
@@ -174,7 +174,7 @@ const Projects = () => {
         <Link href="/projects/slingshot">
           <div className="h-[220px] md:h-[22vw] relative duration-500 ease-in-out group hover:cursor-pointer">
             <div className="absolute text-sm md:text-lg top-[3%] left-[3%] z-[3] bg-neutral-100 px-2 py-1 group-hover:bg-neutral-900 text-neutral-900 group-hover:text-white duration-300">
-              2021
+              2023
             </div>
             <div className="absolute w-full h-full bg-neutral-300 opacity-90 z-[1] duration-300 group-hover:opacity-0"></div>
             <Image
@@ -208,7 +208,7 @@ const Projects = () => {
         <Link href="/projects/givinggap">
           <div className="h-[220px] md:h-[22vw] relative duration-500 ease-in-out group hover:cursor-pointer">
             <div className="absolute text-sm md:text-lg top-[3%] left-[3%] z-[3] bg-neutral-100 px-2 py-1 group-hover:bg-neutral-900 text-neutral-900 group-hover:text-white duration-300">
-              2021
+              2024
             </div>
             <div className="absolute w-full h-full bg-neutral-300 opacity-90 z-[1] duration-300 group-hover:opacity-0"></div>
             <Image
@@ -247,7 +247,7 @@ const Projects = () => {
         <Link href="/projects/skytechnosa">
           <div className="h-[220px] md:h-[22vw] relative duration-500 ease-in-out group hover:cursor-pointer">
             <div className="absolute text-sm md:text-lg top-[3%] left-[3%] z-[3] bg-neutral-100 px-2 py-1 group-hover:bg-neutral-900 text-neutral-900 group-hover:text-white duration-300">
-              2019
+              2018
             </div>
             <div className="absolute w-full h-full bg-neutral-300 opacity-90 z-[1] duration-300 group-hover:opacity-0"></div>
             <Image
@@ -362,7 +362,7 @@ const Projects = () => {
 
         <div>
           <div className="mt-4"></div>
-          <div className="mt-4"></div>
+
         </div>
         <Link href="https://www.credly.com/users/dennys-cedeno/badges#credly" target="_blank" rel="noreferrer">
           <button className="p-3 border-2 border-neutral-400 hover:-translate-y-2 duration-300 text-neutral-500">

@@ -122,7 +122,7 @@ const Navbar = () => {
                     : 'translate-x-[600px] opacity-0'
                 } text-5xl font-medium hover:cursor-pointer duration-1000 ease-in-out delay-[.9s]`}
               >
-                Projects
+                Works
               </li>
             </Link>
             <Link href="/about">
